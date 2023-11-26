@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rehabinapinch
 - 👀 I’m interested in sports medicine and physiotherapy research tools
 - 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate on making clinical risk calculators
+- 💞️ I’m looking to collaborate on translating physio research into accessible tools for clinicians to use in practice
 - 📫 How to reach me @rehabinapinch
 
 <!---
